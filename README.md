@@ -13,7 +13,7 @@ My personal projects combine rapid, AI-assisted development with disciplined tes
 
 ## Selected personal projects
 
-### Local AI, RAG, and Project Memory
+### [Local AI, RAG, and Project Memory](https://github.com/russellbukowski/local-ai-rag-portfolio)
 
 Designed and built a Linux-first environment for local AI experimentation and project knowledge retrieval.
 
@@ -25,7 +25,7 @@ Designed and built a Linux-first environment for local AI experimentation and pr
 
 **Technologies:** Python, SQLite, Ollama, embeddings, RAG, Bash, systemd, JSON
 
-### Algorithmic Trading and Market Automation
+### [Algorithmic Trading and Market Automation](https://github.com/russellbukowski/algorithmic-trading-automation-portfolio)
 
 Developed personal research and automation systems for cryptocurrency and prediction markets, including integrations with Binance and Polymarket.
 
